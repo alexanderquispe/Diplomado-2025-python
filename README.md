@@ -12,3 +12,9 @@ This is a course in python for PUCP
 2. Sociology
 3. Psicology
 4. Economics
+
+## Actors
+1. Liam Neeson
+2. Pedro Pascal
+3. Denzel Washintong
+4. Adam Sandler
