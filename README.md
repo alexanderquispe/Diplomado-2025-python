@@ -25,3 +25,8 @@ This is a course in python for PUCP
 3. Denzel Washintong
 4. Adam Sandler
 
+## Schools
+1. La Union
+2. CET34
+3. Jose Pardo
+4. Colegio Guadalupe
